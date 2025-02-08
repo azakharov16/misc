@@ -1,0 +1,2 @@
+3Durbin-Watson Significance Tablesthe conventional bound dU found in the Savin and White tables. To test for negative first-order autocorrelation, use Table A.6 and Table A.7.  To continue with our example, had we run a regression with no intercept term, we would cross-reference N equals 65 and k equals 2 in Farebrother‚Äôs table. The tabulated 1% minimal bound is 1.348. 
+
